@@ -1,7 +1,8 @@
 
 # Created by https://www.gitignore.io/api/flask
 # Edit at https://www.gitignore.io/?templates=flask
-venv
+/home/odhalyxz/Curso-Platzi/platzi-flask/venv
+
 
 ### Flask ###
 instance/*
